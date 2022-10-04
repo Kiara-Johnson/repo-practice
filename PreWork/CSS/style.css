@@ -1,0 +1,54 @@
+body {
+	background-color: rgb(100, 255, 249, 0.4);
+	margin: auto;
+	text-align: center;
+}
+h2 {
+	color: rgb(5, 5, 230);
+	font-family: cursive;
+}
+p {
+	color: grey;
+}
+table {
+	color: grey;
+	background-color: rgb(100, 255, 249, 0.8);
+	align-content: center;
+	display: inline-block;
+}
+a {
+	color: rgb(50, 50, 50);
+}
+h3 {
+	font-style: italic;
+	color: navy;
+}
+#Learnmore {
+	font-style: italic;
+}
+div {
+	align-content: center;
+}
+#media {
+	background-color: maroon;
+	border-style: solid;
+	border-color: lightgreen;
+}
+#media:hover {
+	background-color: purple;
+	transition: 2s;
+}
+ul {
+	display: inline-block;
+}
+form {
+	background-color: aquamarine;
+	width:350px; height:350px;
+	padding: 10px;
+	font-family: cursive;
+	font-style: italic;
+	border-style: solid;
+	border-color: rgb(255, 255, 175);
+	text-align: center;
+	display: inline-block;
+}
